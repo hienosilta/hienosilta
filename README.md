@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hienosilta
 - 👀 I’m interested in Mushroom picking
 - 🌱 I’m currently learning to program JavaScript
-- 💞️ I’m looking to collaborate with anyone who wants
+- 💞️ I want to collaborate with anyone who wants to collaborate with me.
 - 📫 How to reach me - 11733.andersson@gmail.com
 
 <!---
