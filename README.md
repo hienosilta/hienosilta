@@ -1,4 +1,4 @@
-# 👋 Hej! Jag är Andarsson / med Nicname Hieno Silta
+# 👋 Hej! Jag är Lars Andarsson / med Nicname Hieno Silta
 
 Pensionär & utvecklare med passion för kalkylering, bokslut och teknik.
 
