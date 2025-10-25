@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @hienosilta
-- 👀 I’m interested in Mushroom picking
-- 🌱 I’m currently learning to program JavaScript
-- 💞️ I want to collaborate with anyone who wants to collaborate with me.
-- 📫 How to reach me - 11733.andersson@gmail.com
+# 👋 Hej! Jag är Andarsson / med Nicname Hieno Silta
 
-<!---
-hienosilta/hienosilta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Pensionär & utvecklare med passion för kalkylering, bokslut och teknik.
+
+## ✨ Om mig
+
+- 👴 Pensionär med lång erfarenhet av utveckling och ekonomi.
+- 📊 Expert på kalkylering och att göra bokslut.
+- 🏡 Nyligen köpt lägenhet i Spanien.
+- 🚗 Kör en spanskregistrerad Kia Niro Elbil.
+- 🍄 Hobby: plocka svamp i naturen.
+
+## 💻 Teknik & Verktyg
+
+- Favoritverktyg: **Visual Studio Code**
+- Programmerar helst i **JavaScript**
+
+## 📬 Kontakt
+
+- E-post: 11733.andarsson@gmail.com
+
+---
