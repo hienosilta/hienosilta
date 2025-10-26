@@ -10,7 +10,7 @@ Pensionär & utvecklare med passion för kalkylering, bokslut och teknik.
 - 🚗 Kör en spanskregistrerad Kia Niro Elbil.
 - 🍄 Hobby: plocka svamp i naturen.
 
-## Databas         ([Kom igång med PowerShell – Grundläggande Guider](GUIDE_START.md))
+## Databas         ([Gå till min databas – Grundläggande Guider](GUIDE_START.md))
 
 ## 💻 Teknik & Verktyg
 
