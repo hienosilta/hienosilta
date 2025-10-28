@@ -7,7 +7,7 @@ Pensionär & utvecklare med passion för kalkylering, bokslut och teknik.
 - 👴 Pensionär med lång erfarenhet av utveckling och ekonomi.
 - 📊 Expert på kalkylering och att göra bokslut.
 - 🏡 Nyligen köpt lägenhet i Spanien.
-- 🚗 Kör en spanskregistrerad Kia Niro Elbil.
+- 🚗 Kör en spanskregistrerad Kia Niro 100% Elbil.
 - 🍄 Hobby: plocka svamp i naturen.
 
 
