@@ -11,6 +11,7 @@ Pensionär & utvecklare med passion för kalkylering, bokslut och teknik.
 - 🍄 Hobby: plocka svamp i naturen.
 
 
+- **Guider** för att komma igång med PowerShell ([Kom igång med PowerShell – Grundläggande Guider](GUIDE_START.md))
 
 ## 💻 Teknik & Verktyg
 
