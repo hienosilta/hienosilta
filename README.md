@@ -1,6 +1,6 @@
 # 👋 Hej! Jag är Lars Andarsson / med Nicname Hieno Silta
 
-Pensionär & utvecklare med passion för kalkylering, bokslut och teknik.
+Pensionär & utvecklare med passion för berättande, kalkylering, bokslut och teknik.
 
 ## ✨ Om mig
 
